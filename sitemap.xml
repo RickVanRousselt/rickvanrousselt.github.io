@@ -1,108 +1,93 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-         <loc>https://pnp.github.io/generator-teams/</loc>
-         <lastmod>2021-10-01</lastmod>
+         <loc>https://microsoft.github.io/Microsoft365DSC/</loc>
+         <lastmod>2021-10-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pnp.github.io/generator-teams/releases/</loc>
-         <lastmod>2021-10-01</lastmod>
+         <loc>https://microsoft.github.io/Microsoft365DSC/about/license/</loc>
+         <lastmod>2021-10-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pnp.github.io/generator-teams/about/license/</loc>
-         <lastmod>2021-10-01</lastmod>
+         <loc>https://microsoft.github.io/Microsoft365DSC/about/why/</loc>
+         <lastmod>2021-10-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pnp.github.io/generator-teams/about/why-generator/</loc>
-         <lastmod>2021-10-01</lastmod>
+         <loc>https://microsoft.github.io/Microsoft365DSC/concepts/breaking-changes/</loc>
+         <lastmod>2021-10-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pnp.github.io/generator-teams/concepts/ngrok/</loc>
-         <lastmod>2021-10-01</lastmod>
+         <loc>https://microsoft.github.io/Microsoft365DSC/concepts/odsp-permissions/</loc>
+         <lastmod>2021-10-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pnp.github.io/generator-teams/concepts/project-structure/</loc>
-         <lastmod>2021-10-01</lastmod>
+         <loc>https://microsoft.github.io/Microsoft365DSC/contributing/contribution-guidelines/</loc>
+         <lastmod>2021-10-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pnp.github.io/generator-teams/contributing/contribution-guidelines/</loc>
-         <lastmod>2021-10-01</lastmod>
+         <loc>https://microsoft.github.io/Microsoft365DSC/contributing/develop-new-resource/</loc>
+         <lastmod>2021-10-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pnp.github.io/generator-teams/contributing/getting-started/</loc>
-         <lastmod>2021-10-01</lastmod>
+         <loc>https://microsoft.github.io/Microsoft365DSC/contributing/getting-started/</loc>
+         <lastmod>2021-10-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pnp.github.io/generator-teams/releases/release-notes/</loc>
-         <lastmod>2021-10-01</lastmod>
+         <loc>https://microsoft.github.io/Microsoft365DSC/releases/releases/</loc>
+         <lastmod>2021-10-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pnp.github.io/generator-teams/releases/releases/</loc>
-         <lastmod>2021-10-01</lastmod>
+         <loc>https://microsoft.github.io/Microsoft365DSC/tutorials/create-blueprint/</loc>
+         <lastmod>2021-10-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pnp.github.io/generator-teams/tutorials/build-a-connector-for-microsoft-teams/</loc>
-         <lastmod>2021-10-01</lastmod>
+         <loc>https://microsoft.github.io/Microsoft365DSC/tutorials/resources/</loc>
+         <lastmod>2021-10-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pnp.github.io/generator-teams/tutorials/build-a-sharepoint-online-provider-hosted-web-part/</loc>
-         <lastmod>2021-10-01</lastmod>
+         <loc>https://microsoft.github.io/Microsoft365DSC/user-guide/apply-config/</loc>
+         <lastmod>2021-10-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pnp.github.io/generator-teams/tutorials/build-a-tab-with-sso-support/</loc>
-         <lastmod>2021-10-01</lastmod>
+         <loc>https://microsoft.github.io/Microsoft365DSC/user-guide/assess-tenants-blueprint/</loc>
+         <lastmod>2021-10-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pnp.github.io/generator-teams/tutorials/build-your-first-microsoft-teams-app/</loc>
-         <lastmod>2021-10-01</lastmod>
+         <loc>https://microsoft.github.io/Microsoft365DSC/user-guide/extract-config/</loc>
+         <lastmod>2021-10-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pnp.github.io/generator-teams/user-guide/codespaces/</loc>
-         <lastmod>2021-10-01</lastmod>
+         <loc>https://microsoft.github.io/Microsoft365DSC/user-guide/generate-reports/</loc>
+         <lastmod>2021-10-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pnp.github.io/generator-teams/user-guide/deploy-to-teams/</loc>
-         <lastmod>2021-10-01</lastmod>
+         <loc>https://microsoft.github.io/Microsoft365DSC/user-guide/install-first-module/</loc>
+         <lastmod>2021-10-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pnp.github.io/generator-teams/user-guide/setup-machine/</loc>
-         <lastmod>2021-10-01</lastmod>
+         <loc>https://microsoft.github.io/Microsoft365DSC/user-guide/monitor-tenants/</loc>
+         <lastmod>2021-10-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pnp.github.io/generator-teams/user-guide/setup-tenant/</loc>
-         <lastmod>2021-10-01</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://pnp.github.io/generator-teams/user-guide/upgrading-projects/</loc>
-         <lastmod>2021-10-01</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://pnp.github.io/generator-teams/user-guide/using-multiple-manifests/</loc>
-         <lastmod>2021-10-01</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://pnp.github.io/generator-teams/user-guide/vscode/</loc>
-         <lastmod>2021-10-01</lastmod>
+         <loc>https://microsoft.github.io/Microsoft365DSC/user-guide/write-first-config/</loc>
+         <lastmod>2021-10-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
